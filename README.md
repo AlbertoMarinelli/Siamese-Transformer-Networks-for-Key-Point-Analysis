@@ -13,7 +13,7 @@ In particular, this architecture was used to tackle task 1 in the [IBM's shared 
 <br /><br />
 
 ### Running the Project
-All the code for experimentation is reported in apposite [notebook](inserire link qui) that can be runned on Google Colab, to speed up the computation required for the training and inference phase it is suggested to change the runtime type to GPU.
+All the code for experimentation is reported in apposite [notebook](https://github.com/AlbertoMarinelli/Siamese-Transformer-Networks-for-Key-Point-Analysis/tree/master/notebooks) that can be runned on Google Colab, to speed up the computation required for the training and inference phase it is suggested to change the runtime type to GPU.
 <br /><br />
 
 ### Main results
